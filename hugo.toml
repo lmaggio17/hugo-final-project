@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'http://lmaggio-hugo-final.s3-website-us-east-1.amazonaws.com/'
+languageCode = 'en-us'
+title = 'Lauren Maggio Hugo Final Project'
+disableKinds = ['taxonomy', 'term']
