@@ -11,3 +11,5 @@ This is my statically hosted website built with the Hugo framework.
 It is deployed to Amazon S3 and will be updated automatically through AWS CodePipeline whenever changes are pushed to GitHub.
 
 This site was successfully updated through an automated AWS CodePipeline deployment.
+
+This is to show continuous delivery. 
